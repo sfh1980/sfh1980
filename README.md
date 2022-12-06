@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sfh1980 a.k.a. Sean
 - 👀 I’m interested in ... at this point, learning skills such as web dev and coding with a goal of starting a new career.
-- 🌱 I’m currently learning ... Web Dev from The Odin Project
+- 🌱 I’m currently learning ... full stack web development.
 - 💞️ I’m looking to collaborate on ... anything, really, at this point. I havent singled any 1 or more things to focus on.
 - 📫 How to reach me ... here or sfh1980@yahoo.com, so far. As I am not familiar with GitHub yet
 
